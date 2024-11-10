@@ -1,0 +1,15 @@
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.AssemblyInfoInputs.cache
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.AssemblyInfo.cs
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.csproj.CoreCompileInputs.cache
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.sourcelink.json
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net8.0\HoTenSV_Thi_finaltest.exe
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net8.0\HoTenSV_Thi_finaltest.deps.json
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net8.0\HoTenSV_Thi_finaltest.runtimeconfig.json
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net8.0\HoTenSV_Thi_finaltest.dll
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net8.0\HoTenSV_Thi_finaltest.pdb
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.dll
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\refint\HoTenSV_Thi_finaltest.dll
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.pdb
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\HoTenSV_Thi_finaltest.genruntimeconfig.cache
+C:\Desktop\Structure_Algorithsm_2024\Finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net8.0\ref\HoTenSV_Thi_finaltest.dll
