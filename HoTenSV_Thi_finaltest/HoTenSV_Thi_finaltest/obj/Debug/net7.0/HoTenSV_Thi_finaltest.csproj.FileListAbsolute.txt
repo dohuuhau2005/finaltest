@@ -1,0 +1,14 @@
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net7.0\HoTenSV_Thi_finaltest.exe
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net7.0\HoTenSV_Thi_finaltest.deps.json
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net7.0\HoTenSV_Thi_finaltest.runtimeconfig.json
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net7.0\HoTenSV_Thi_finaltest.dll
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\bin\Debug\net7.0\HoTenSV_Thi_finaltest.pdb
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.AssemblyInfoInputs.cache
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.AssemblyInfo.cs
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.dll
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\refint\HoTenSV_Thi_finaltest.dll
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.pdb
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\HoTenSV_Thi_finaltest.genruntimeconfig.cache
+C:\Users\COMPUTERUSER\Desktop\New folder\finaltest\HoTenSV_Thi_finaltest\HoTenSV_Thi_finaltest\obj\Debug\net7.0\ref\HoTenSV_Thi_finaltest.dll

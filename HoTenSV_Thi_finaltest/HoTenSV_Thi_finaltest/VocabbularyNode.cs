@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HoTenSV_Thi_finaltest
+﻿namespace HoTenSV_Thi_finaltest
 {
     internal class VocabbularyNode
     {
+
         LinkedListMeaning meaning;
         string vocab;
         VocabbularyNode left;
@@ -21,6 +16,21 @@ namespace HoTenSV_Thi_finaltest
             right = null;
         }
 
+        public void LNR()
+        {
+            if (Left != null)
+            {
+                Left.LNR();
+            }
+            Console.Write(vocab + " : ");
+            meaning.showlistMeaning();
+            Console.WriteLine();
+
+            if (Right != null)
+            {
+                Right.LNR();
+            }
+        }
         public string Vocab { get => vocab; set => vocab = value; }
 
 

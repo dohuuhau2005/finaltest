@@ -1,14 +1,9 @@
-﻿void test()
-{
-    string a = "c";
-    string b = "c";
-    if (a.CompareTo(b) == 1)
-    {
-        Console.WriteLine(a);
+﻿using HoTenSV_Thi_finaltest;
 
-    }
-    else { 
-    Console.WriteLine("....");
-    }
+void test()
+{
+    VocabularyBinaryTree newbe = new VocabularyBinaryTree();
+    newbe.Input();
+    newbe.show();
 }
 test();
